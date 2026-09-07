@@ -1,1 +1,2 @@
-/testDrive.py
+__pycache__/
+*.pyc
